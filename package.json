@@ -1,0 +1,20 @@
+{
+  "name": "vue3-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^21.0.0",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "vue": "^3.2.19"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.19",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "vite": "^2.6.4"
+  }
+}
