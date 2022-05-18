@@ -14,7 +14,7 @@ import KIcon from './KIcon/index.vue'
 export default {
     install:( app ) => {
         app.component('k-switch', KSwitch)
-        app.component( 'k-progress', KProgress)
+        app.component('k-progress', KProgress)
         app.component('k-button', KButton)
         app.component('k-divider', KDivider)
         app.component('k-radio', KRadio)

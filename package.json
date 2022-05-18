@@ -1,6 +1,6 @@
 {
-  "name": "vue3-test",
-  "version": "0.0.0",
+  "name": "KUI",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
